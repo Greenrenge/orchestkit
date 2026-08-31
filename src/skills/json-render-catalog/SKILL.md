@@ -13,7 +13,7 @@ persuasion-type: reference
 metadata:
   category: frontend
   upstream-package: "@json-render/core"
-  upstream-version-tested: "0.19.0"
+  upstream-version-tested: "0.20.0"
   shadcn-component-count: 36
 ---
 
